@@ -1,0 +1,17 @@
+.bg-primary
+{
+     background-color: #8e44ad !important;
+}
+
+#modal-body-text
+{
+     text-align: left;
+     font-size: 15px;
+}
+
+.technologyimgpic
+{
+     height: 135px;
+     margin-top: -28px;
+     margin-left: 35px;
+}
